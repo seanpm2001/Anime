@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="1089"
+   height="914"
+   viewBox="0 0 1089 914">
+  <rect
+     width="1089"
+     height="914"
+     id="rect3211"
+     style="fill:#c0a73f" />
+  <polygon
+     points="1089,457 752,457 740.7,524.6 740.7,524.6 1036.1,626.2 "
+     id="polygon30"
+     style="fill:#bc002d" />
+  <use
+     transform="matrix(-1,0,0,-1,1089,914)"
+     id="use2841"
+     xlink:href="#polygon30" />
+  <use
+     transform="matrix(-1,0,0,-1,1089,914)"
+     id="use2837"
+     xlink:href="#polygon26" />
+  <polygon
+     points="725.2,51.2 624.7,277 544.5,249.5 544.5,249.5 544.5,0 "
+     id="polygon26"
+     style="fill:#bc002d" />
+  <polygon
+     points="0,0 385.5,323.6 464.3,277 464.3,277 363.8,51.2 "
+     id="polygon40"
+     style="fill:#bc002d" />
+  <use
+     transform="matrix(-1,0,0,-1,1089,914)"
+     id="use2835"
+     xlink:href="#polygon40" />
+  <polygon
+     points="1089,0 703.5,323.6 624.7,277 624.7,277 725.2,51.2 "
+     id="polygon6"
+     style="fill:#ffffff" />
+  <polygon
+     points="1036.1,287.8 740.7,389.4 703.5,323.6 703.5,323.6 1089,0 "
+     id="polygon28"
+     style="fill:#bc002d" />
+  <polygon
+     points="1089,457 752,457 740.7,389.4 740.7,389.4 1036.1,287.8 "
+     id="polygon8"
+     style="fill:#ffffff" />
+  <use
+     transform="matrix(-1,0,0,-1,1089,914)"
+     id="use2834"
+     xlink:href="#polygon18" />
+  <use
+     transform="matrix(-1,0,0,-1,1089,914)"
+     id="use2836"
+     xlink:href="#polygon20" />
+  <use
+     transform="matrix(-1,0,0,-1,1089,914)"
+     id="use2839"
+     xlink:href="#polygon28" />
+  <use
+     transform="matrix(-1,0,0,-1,1089,914)"
+     id="use2838"
+     xlink:href="#polygon6" />
+  <use
+     transform="matrix(-1,0,0,-1,1089,914)"
+     id="use2840"
+     xlink:href="#polygon8" />
+  <polygon
+     points="52.9,287.8 348.3,389.4 385.5,323.6 385.5,323.6 0,0 "
+     id="polygon18"
+     style="fill:#ffffff" />
+  <polygon
+     points="363.8,51.2 464.3,277 544.5,249.5 544.5,249.5 544.5,0 "
+     id="polygon20"
+     style="fill:#ffffff" />
+  <circle
+     cx="544.5"
+     cy="457"
+     r="207.5"
+     id="circle24"
+     style="fill:#bc002d" />
+</svg>
